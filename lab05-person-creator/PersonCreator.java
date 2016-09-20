@@ -59,7 +59,7 @@ public class PersonCreator
         {
         age = age + years;
     }
-}
+    }
     /**
      * Description: Assign sex
      * Input: String
@@ -130,7 +130,7 @@ public class PersonCreator
         {
             address = number + " " + streetAddress + " " + town + " " + state + " " + zipCode;
     }
-}
+    }
     /** 
      * Description: Assign phone number
      * Input: String (three int that complie to a string)
